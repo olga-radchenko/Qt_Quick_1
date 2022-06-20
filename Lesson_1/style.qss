@@ -1,0 +1,19 @@
+QPushButton {
+    color:black;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #ffb6c1;
+    font-size: 12px;
+    height: 16;
+}
+
+QPushButton:pressed {
+    background-color: darkgrey;
+}
+
+QLineEdit {
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 12px;
+}
